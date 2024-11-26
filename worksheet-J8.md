@@ -4,7 +4,7 @@
 
 3. A non-functional requirement might set specific standards for the appearance of the bio section, like font size and style . It could also be the app icon's color scheme and resolution to meet brand standards and compatibility across devices.
 
-4. 
+4. https://github.com/kidusze/kidusze-worksheet-J8/blob/main/IMG_3085.jpg
 
 5. Getting the complete requirements at the beginning of the development cycle is not realistic so an agile model allows to gain the complete requirements for a small chunk of the code which will reduce the number of changes to be made later in the development cycle.
 
