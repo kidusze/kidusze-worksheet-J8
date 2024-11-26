@@ -8,5 +8,5 @@
 
 5. Getting the complete requirements at the beginning of the development cycle is not realistic so an agile model allows to gain the complete requirements for a small chunk of the code which will reduce the number of changes to be made later in the development cycle.
 
-6. 
+6. https://github.com/kidusze/kidusze-worksheet-J8/blob/main/IMG_3086.jpg
 
